@@ -9,8 +9,8 @@ WiFiClient espClient;
 PubSubClient client(espClient);
 
 // Deklarasi ssid, password, mqtt
-const char* ssid = "REDMI NOTE 9";
-const char* password = "Tasya";
+const char* ssid = "Indah indi";
+const char* password = "2005indi";
 const char* mqtt_server = "riset.revolusi-it.com";
 const char* topik = "iot/suhu";
 
